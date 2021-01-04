@@ -50,7 +50,7 @@ Planned/Done  functions:
 - [x] controll over mqtt
 - [x] controll with alexa
 - [x] work as independent "Control Panel"
-- [ ] controll memory 
+- [ ] store memory 
 - [ ] provide actual height via mqtt
 - [ ] turn reminder on/off (need control Panel with "A" button to get information)
 - [ ] start in AP mode, provide webpage for WIFI, MQTT and Alexa settings
