@@ -13,3 +13,4 @@ factory reset	M+standing 3sec		9B 06 02  30 00  6C B5	9D
 							
 		1+2			9B 06 02  0C 01  AC 65	9D
 		M+sitting		9B 06 02  20 01  6C 79	9D
+		(stay awake)		9B 06 02  00 00  6C A1	9D
