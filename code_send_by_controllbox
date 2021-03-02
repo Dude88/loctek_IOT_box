@@ -1,0 +1,15 @@
+		Keys						
+							
+		UP			9B 06 02  01 00  FC A0 	9D
+		DOWN			9B 06 02  02 00  0C A0 	9D
+		1			9B 06 02  04 00  AC A3 	9D
+		2			9B 06 02  08 00  AC A6	9D
+		standing		9B 06 02  10 00  AC AC 	9D
+		sitting			9B 06 02  00 01  AC 60	9D
+		M			9B 06 02  20 00  AC B8 	9D
+child lock	M 5sec						
+anti kollission	UP+DOWN 5sec		9B 06 02  03 00  9C A1	9D
+factory reset	M+standing 3sec		9B 06 02  30 00  6C B5	9D
+							
+		1+2			9B 06 02  0C 01  AC 65	9D
+		M+sitting		9B 06 02  20 01  6C 79	9D
